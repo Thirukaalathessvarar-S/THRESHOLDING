@@ -97,8 +97,6 @@ for i in range(0,9):
 ![dip9_9](https://github.com/Thirukaalathessvarar-S/THRESHOLDING/assets/121166390/b42d606a-1e7d-4775-81c7-7efb48b4b0f8)
 
 ### Optimum Global Thesholding using Otsu's Method
-![dip9_10](https://github.com/Thirukaalathessvarar-S/THRESHOLDING/assets/121166390/e1e7cd3c-dce5-489b-a989-428c9527a55b)
-
 ![dip9_8](https://github.com/Thirukaalathessvarar-S/THRESHOLDING/assets/121166390/a2391652-be0e-4b07-ab17-f7a707322d61)
 
 ## Result
